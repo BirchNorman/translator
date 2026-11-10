@@ -1,0 +1,10 @@
+[project]
+name = "translator"
+version = "0.1.0"
+description = "Google Translate .txt"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "docx",
+    "python-docx>=1.2.0",
+]
